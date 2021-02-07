@@ -6,7 +6,7 @@ I know C++, C#, PHP, Java, and Javascript. But out of those five, I would say Ja
 
 ### Current Status
 
-✍️ Learning Phyton and continuing to improve on mainly C++ and Javascript
+✍️ Learning Phyton and continuing to improve on mainly C++ and Javascript.
 
 🔨 Maintaining and further developing my repositories. All of them are private currently, but i plan to make them open source someday!
 
