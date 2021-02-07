@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello there!
 
-<!--
-**SomeRandomDolphin/SomeRandomDolphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Pradipta Arya Daniswara. I am a passionate self-taught independent developer looking to create whatever I desire and learning new things!
 
-Here are some ideas to get you started:
+I know C++, C#, PHP, Java, and Javascript. But out of those four, I would say Javascript (specifically with Node) is my favourite to play around with and the one I am most comfortable with!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Status
+
+✍️ Learning Phyton and continuing to improve on mainly C++ and Javascript
+
+🔨 Maintaining and further developing my repositories. All of them are private currently, but i plan to make them open source someday!
+
+💻 Studying in SMAN 15 Surabaya.
+
+### Contact Me
+🐦 Twitter: <a href="https://twitter.com/NukoHatori">@NukoHatori</a>
+
+📫 Email: <a href="mailto:aryadaniswarapradipta@gmail.com">aryadaniswarapradipta@gmail.com</a>
