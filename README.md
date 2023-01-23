@@ -13,6 +13,9 @@ I know C++, C#, PHP, Java, and Javascript. But out of those five, I would say Ja
 💻 Studying in Institut Teknologi Sepuluh Nopember.
 
 ### Contact Me
+
 🐦 Twitter: <a href="https://twitter.com/NukoHatori">@NukoHatori</a>
+
+💼 Linkedin: <a href="https://www.linkedin.com/in/pradipta-arya-daniswara/">Pradipta Arya Daniswara</a>
 
 📫 Email: <a href="mailto:aryadaniswarapradipta@gmail.com">aryadaniswarapradipta@gmail.com</a>
