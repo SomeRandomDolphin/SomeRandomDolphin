@@ -10,7 +10,7 @@ I know C++, C#, PHP, Java, and Javascript. But out of those five, I would say Ja
 
 🔨 Maintaining and further developing my repositories. All of them are private currently, but i plan to make them open source someday!
 
-💻 Studying in SMAN 15 Surabaya.
+💻 Studying in Institut Teknologi Sepuluh Nopember.
 
 ### Contact Me
 🐦 Twitter: <a href="https://twitter.com/NukoHatori">@NukoHatori</a>
